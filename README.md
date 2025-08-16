@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Taha Shaikh
 
 **Tagline:**  
-_Build for fun and one day you'll love your run._
+_Build for fun._
 
 ---
 
